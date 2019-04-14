@@ -1,0 +1,13 @@
+.header {
+  background: lightcoral;
+  width: 100%;
+  margin-bottom: 10px;
+}
+
+.header-score {
+  float: right;
+}
+
+.header-title {
+  float: left;
+}
